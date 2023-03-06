@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "db3cf393b7bb021c",
+    "type": "split",
+    "children": [
+      {
+        "id": "34479c138bba9070",
+        "type": "tabs",
+        "dimension": 36.146971201588876,
+        "children": [
+          {
+            "id": "7af1bf820d716d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Culture — Гоблины.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "469e631d39c6e2e3"
+          }
+        ]
+      },
+      {
+        "id": "ee1369b37648cdde",
+        "type": "tabs",
+        "dimension": 63.853028798411124,
+        "children": [
+          {
+            "id": "8e38e5c93c511e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Culture — Гоблины.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "469e631d39c6e2e3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ea82f028f484d60",
+    "type": "split",
+    "children": [
+      {
+        "id": "40233c7ebbf9f4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c41ea8495b8d577",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "218d076bed4d6e4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51c9723ab5a5a23",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "53e05178d163672e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df6ecc70c373520",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e2b0ffc2ac5be14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cultures/Culture — Гоблины.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8723b6a8ed461015",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cultures/Culture — Гоблины.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3f707859dc9c1f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dfa576d08173862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cultures/Culture — Гоблины.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7af1bf820d716d8b",
+  "lastOpenFiles": [
+    "Cultures/Culture — Орки.md",
+    "Cultures/Culture — Гоблины.md",
+    "Королевство Драйнад.md",
+    "Cultures/Culture — Дварфы.md",
+    "Cultures/Culture — Лизарды.md",
+    "Cultures/Culture — Гномы.md",
+    "Cultures/Culture — Люди.md",
+    "Cultures/Culture — Полулюди.md",
+    "Cultures/Герцы(Дварфы).md",
+    "Cultures/Лесные Жители(смесь).md",
+    "Cultures/Круты(Дварфы).md",
+    "Cultures/Абасцы(Люди).md",
+    "Cultures/Кимрийцы(Люди).md",
+    "Cultures/Лизарды.md",
+    "Cultures/Люди.md",
+    "Cultures/Гоблины западной ветви.md",
+    "Cultures/Гоблины восточной ветви.md",
+    "Cultures/Гоблины.md",
+    "Cultures/Гномы.md"
+  ]
+}
