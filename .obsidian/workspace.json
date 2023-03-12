@@ -20,8 +20,45 @@
               }
             },
             "group": "469e631d39c6e2e3"
+          },
+          {
+            "id": "c34ff86f12e6d545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Связанные NPC с игроками/Линкольн.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f17767110d065c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Игроки/Одо.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "da97d92329d39136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Религия трёх богинь.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "ee1369b37648cdde",
@@ -91,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "53e05178d163672e",
@@ -107,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultures/Culture — Гоблины.md",
+                "file": "Religion/Религия трёх богинь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultures/Culture — Гоблины.md",
+                "file": "Religion/Религия трёх богинь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cultures/Culture — Гоблины.md"
+                "file": "Religion/Религия трёх богинь.md"
               }
             }
           }
@@ -168,12 +205,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7af1bf820d716d8b",
+  "active": "da97d92329d39136",
   "lastOpenFiles": [
-    "Cultures/Culture — Орки.md",
+    "NPC/Связанные NPC с игроками/Габриэль.md",
+    "Religion/Религия трёх богинь.md",
+    "NPC/Игроки/Одо.md",
+    "Campaign → DeathBringer.md",
+    "NPC/Связанные NPC с игроками/Линкольн.md",
+    "NPC/Игроки",
     "Cultures/Culture — Гоблины.md",
-    "Королевство Драйнад.md",
+    "NPC/Связанные NPC с игроками",
+    "NPC/Вестники",
+    "NPC",
     "Cultures/Culture — Дварфы.md",
+    "Cultures/Culture — Орки.md",
+    "Королевство Драйнад.md",
     "Cultures/Culture — Лизарды.md",
     "Cultures/Culture — Гномы.md",
     "Cultures/Culture — Люди.md",
