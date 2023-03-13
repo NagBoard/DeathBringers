@@ -2,5 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "Files"
 }

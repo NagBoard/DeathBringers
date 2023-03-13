@@ -6,7 +6,7 @@
       {
         "id": "34479c138bba9070",
         "type": "tabs",
-        "dimension": 36.146971201588876,
+        "dimension": 39.03846153846154,
         "children": [
           {
             "id": "7af1bf820d716d8b",
@@ -14,56 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Culture — Гоблины.md",
+                "file": "Распределение Очков.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "469e631d39c6e2e3"
-          },
-          {
-            "id": "c34ff86f12e6d545",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Связанные NPC с игроками/Линкольн.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f17767110d065c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Игроки/Одо.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da97d92329d39136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religion/Религия трёх богинь.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "ee1369b37648cdde",
         "type": "tabs",
-        "dimension": 63.853028798411124,
+        "dimension": 60.96153846153847,
         "children": [
           {
             "id": "8e38e5c93c511e22",
@@ -71,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Culture — Гоблины.md",
+                "file": "Распределение Очков.md",
                 "mode": "preview",
                 "source": true
               }
@@ -144,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religion/Религия трёх богинь.md",
+                "file": "Распределение Очков.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religion/Религия трёх богинь.md",
+                "file": "Распределение Очков.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religion/Религия трёх богинь.md"
+                "file": "Распределение Очков.md"
               }
             }
           }
@@ -205,15 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da97d92329d39136",
+  "active": "7af1bf820d716d8b",
   "lastOpenFiles": [
-    "NPC/Связанные NPC с игроками/Габриэль.md",
-    "Religion/Религия трёх богинь.md",
-    "NPC/Игроки/Одо.md",
+    "Вестники Смерти — Используемые Правила.md",
+    "Files/Моды доспехов.png",
+    "Распределение Очков.md",
+    "Files/Правила Генерации.png",
+    "Files/Поломка снаряжения.png",
+    "Files/Новые пороги ФП.png",
+    "Files/Начальное богатство.png",
+    "Files/Изнурение.png",
+    "Files/Боёвка, правила.png",
+    "Files/Кровотечение и оказание помощи.png",
+    "Files",
+    "Cultures/Culture — Гоблины.md",
     "Campaign → DeathBringer.md",
+    "Religion/Религия трёх богинь.md",
+    "NPC/Связанные NPC с игроками/Габриэль.md",
+    "NPC/Игроки/Одо.md",
     "NPC/Связанные NPC с игроками/Линкольн.md",
     "NPC/Игроки",
-    "Cultures/Culture — Гоблины.md",
     "NPC/Связанные NPC с игроками",
     "NPC/Вестники",
     "NPC",
@@ -233,7 +207,6 @@
     "Cultures/Люди.md",
     "Cultures/Гоблины западной ветви.md",
     "Cultures/Гоблины восточной ветви.md",
-    "Cultures/Гоблины.md",
-    "Cultures/Гномы.md"
+    "Cultures/Гоблины.md"
   ]
 }
