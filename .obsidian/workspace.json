@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Распределение Очков.md",
+                "file": "Cultures/Culture — Лизарды.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "469e631d39c6e2e3"
+          },
+          {
+            "id": "d6826f029984f1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Culture — Гномы.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Распределение Очков.md",
+                "file": "Cultures/Culture — Лизарды.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Распределение Очков.md",
+                "file": "Cultures/Culture — Лизарды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Распределение Очков.md",
+                "file": "Cultures/Culture — Лизарды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Распределение Очков.md"
+                "file": "Cultures/Culture — Лизарды.md"
               }
             }
           }
@@ -170,9 +182,17 @@
   },
   "active": "7af1bf820d716d8b",
   "lastOpenFiles": [
+    "Cultures/Culture — Дварфы.md",
+    "Cultures/Culture — Гоблины.md",
+    "Cultures/Culture — Лизарды.md",
+    "Cultures/Culture — Гномы.md",
+    "Распределение Очков.md",
+    "Fantastic Dungeon Grappling.md",
+    "NPC/Артуриан.md",
+    "Templates/Subcard.md",
+    "Templates",
     "Вестники Смерти — Используемые Правила.md",
     "Files/Моды доспехов.png",
-    "Распределение Очков.md",
     "Files/Правила Генерации.png",
     "Files/Поломка снаряжения.png",
     "Files/Новые пороги ФП.png",
@@ -181,7 +201,6 @@
     "Files/Боёвка, правила.png",
     "Files/Кровотечение и оказание помощи.png",
     "Files",
-    "Cultures/Culture — Гоблины.md",
     "Campaign → DeathBringer.md",
     "Religion/Религия трёх богинь.md",
     "NPC/Связанные NPC с игроками/Габриэль.md",
@@ -191,11 +210,8 @@
     "NPC/Связанные NPC с игроками",
     "NPC/Вестники",
     "NPC",
-    "Cultures/Culture — Дварфы.md",
     "Cultures/Culture — Орки.md",
     "Королевство Драйнад.md",
-    "Cultures/Culture — Лизарды.md",
-    "Cultures/Culture — Гномы.md",
     "Cultures/Culture — Люди.md",
     "Cultures/Culture — Полулюди.md",
     "Cultures/Герцы(Дварфы).md",
@@ -205,8 +221,6 @@
     "Cultures/Кимрийцы(Люди).md",
     "Cultures/Лизарды.md",
     "Cultures/Люди.md",
-    "Cultures/Гоблины западной ветви.md",
-    "Cultures/Гоблины восточной ветви.md",
-    "Cultures/Гоблины.md"
+    "Cultures/Гоблины западной ветви.md"
   ]
 }
