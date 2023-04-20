@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Culture — Лизарды.md",
+                "file": "Cultures/Culture — Орки.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "469e631d39c6e2e3"
+          },
+          {
+            "id": "d2c4bc9dd054757a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Лесные Жители(смесь).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           },
           {
             "id": "d6826f029984f1fa",
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures/Culture — Лизарды.md",
+                "file": "Cultures/Culture — Орки.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultures/Culture — Лизарды.md",
+                "file": "Cultures/Culture — Орки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cultures/Culture — Лизарды.md",
+                "file": "Cultures/Culture — Орки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cultures/Culture — Лизарды.md"
+                "file": "Cultures/Culture — Орки.md"
               }
             }
           }
@@ -182,9 +194,21 @@
   },
   "active": "7af1bf820d716d8b",
   "lastOpenFiles": [
+    "Cultures/Кимрийцы(Люди).md",
+    "Cultures/Круты(Дварфы).md",
+    "Cultures/Лесные Жители(смесь).md",
+    "Cultures/Абасцы(Люди).md",
+    "Cultures/Герцы(Дварфы).md",
+    "Cultures/Culture — Полулюди.md",
+    "Cultures/Culture — Орки.md",
+    "Cultures/Culture — Лизарды.md",
+    "Cultures/Culture — Люди.md",
+    "NPC/Связанные NPC с игроками/Линкольн.md",
+    "Files/Линкольн.jpg",
+    "Files/Габриэль.jpg",
+    "NPC/Связанные NPC с игроками/Габриэль.md",
     "Cultures/Culture — Дварфы.md",
     "Cultures/Culture — Гоблины.md",
-    "Cultures/Culture — Лизарды.md",
     "Cultures/Culture — Гномы.md",
     "Распределение Очков.md",
     "Fantastic Dungeon Grappling.md",
@@ -203,24 +227,13 @@
     "Files",
     "Campaign → DeathBringer.md",
     "Religion/Религия трёх богинь.md",
-    "NPC/Связанные NPC с игроками/Габриэль.md",
     "NPC/Игроки/Одо.md",
-    "NPC/Связанные NPC с игроками/Линкольн.md",
     "NPC/Игроки",
     "NPC/Связанные NPC с игроками",
     "NPC/Вестники",
     "NPC",
-    "Cultures/Culture — Орки.md",
     "Королевство Драйнад.md",
-    "Cultures/Culture — Люди.md",
-    "Cultures/Culture — Полулюди.md",
-    "Cultures/Герцы(Дварфы).md",
-    "Cultures/Лесные Жители(смесь).md",
-    "Cultures/Круты(Дварфы).md",
-    "Cultures/Абасцы(Люди).md",
-    "Cultures/Кимрийцы(Люди).md",
     "Cultures/Лизарды.md",
-    "Cultures/Люди.md",
-    "Cultures/Гоблины западной ветви.md"
+    "Cultures/Люди.md"
   ]
 }
